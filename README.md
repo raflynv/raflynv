@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning Data Science and Analytics 
 - 🥅 2023 Goals: Give impact to society
-- ⚡ Fun fact: I love blogging, reading books, and singing
+- ⚡ Fun fact: I love blogging, reading, and listening music
 
 ### Languages and Tools:
 
